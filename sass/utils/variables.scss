@@ -1,0 +1,26 @@
+// Основной цвет текста
+$primaryColor: #212121;
+
+// Основной цвет фона
+$primaryBackground-color: #ffffff;
+
+// Вторичный цвет текста
+$secondaryColor: #757575;
+
+// Вторичный цвет фона
+$secondaryBackground-color: #2f303a;
+
+// Цвет акцента
+$accentColor: #2196f3;
+
+// Единичный цвет
+$singleColor: rgba(255, 255, 255, 0.6);
+
+// Единичный фон
+$singleBackground-color: #f5f4fa;
+
+// Фон бэкдропа
+$backdropBackground-color: rgba(0, 0, 0, 0.2);
+
+// Функция распределения времени при анимации
+$timingDurationFunction: cubic-bezier(0.4, 0, 0.2, 1);
