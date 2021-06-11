@@ -13,6 +13,9 @@ $secondaryBackground-color: #2f303a;
 // Цвет акцента
 $accentColor: #2196f3;
 
+// Цвет фона оверлея
+$overlayBG: rgba(33, 150, 243, 0.9);
+
 // Единичный цвет
 $singleColor: rgba(255, 255, 255, 0.6);
 
@@ -43,3 +46,33 @@ $primaryFont: Roboto, sans-serif;
 
 // Вторичный шрифт
 $secondaryFont: Raleway, sans-serif;
+
+// Бокс шадоу для бэкдропа
+$boxShadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+  0px 2px 1px rgba(0, 0, 0, 0.2);
+
+$boxShadowPortfolioButton: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+  0px 2px 2px rgba(0, 0, 0, 0.12);
+
+// Цвет бордера для блока Подписки
+$subscriptionBorderColor: rgba(255, 255, 255, 0.3);
+
+// Дроп-шадоу ждя блока подписки
+$dropShadow: (0px 4px 4px rgba(0, 0, 0, 0.15));
+
+// Цвет бордера для формы модального окна
+$borderColorInputFormModal: rgba(33, 33, 33, 0.2);
+
+// Цвет плейсхолдера
+$placehpderColor: rgba(117, 117, 117, 0.5);
+
+// Цвет ховера для основных кнопок
+$buttonHoverFocusColor: #188ce8;
+
+// Цвет бордера кнопки закрытия модального окна
+$borderButtonCloseColor: rgba(0, 0, 0, 0.1);
+
+// Цвет бордера хедера
+$borderColorFooter: #ececec;
+
+$overlayFocus: rgba(33, 150, 243, 0.9);

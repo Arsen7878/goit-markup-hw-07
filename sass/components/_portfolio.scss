@@ -1,0 +1,28 @@
+.portfolio {
+  @extend %section;
+  padding-top: 174px;
+}
+
+.portfolio__container {
+  @extend %container;
+}
+
+.portfolio__title--visually-hidden {
+  @extend %visually-hidden;
+}
+
+.portfolio__filter {
+  @extend %titleTextList;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+  text-align: center;
+}
+
+.potfolio__item:not(:first-child) {
+  margin-left: 8px;
+}

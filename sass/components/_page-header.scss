@@ -6,8 +6,7 @@
   min-height: 80px;
   z-index: 2;
   background-color: $primaryBackground-color;
-  border-bottom: 1px solid #ececec;
-  border: transparent;
+  border-bottom: 1px solid $borderColorFooter;
 }
 
 .page-header__container {
