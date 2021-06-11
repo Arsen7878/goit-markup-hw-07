@@ -1,8 +1,31 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AEAA,AAAA,KAAK,AAAC,CACJ,KAAK,CDGmB,IAAO,CCD/B,WAAW,CD4BG,OAAO,CAAE,UAAU,CC3BjC,WAAW,CAAE,GAAG,CAChB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CAClB,AcPD,AAAA,YAAY,AAAC,CACX,QAAQ,CAAE,KAAK,CACf,GAAG,CAAE,GAAG,CACR,IAAI,CAAE,GAAG,CACT,KAAK,CAAE,IAAI,CACX,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,CAAC,CACV,gBAAgB,CfHQ,IAAO,CeI/B,aAAa,CAAE,iBAAiB,CAChC,MAAM,CAAE,WAAW,CACpB,AAED,AAAA,uBAAuB,AAAC,CACtB,OAAO,CAAE,IAAI,CACb,WAAW,CAAE,MAAM,CACpB",
     "sources": [
-        "../sass/main.scss"
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/components/_logo.scss",
+        "../sass/components/_activity.scss",
+        "../sass/components/_backdrop.scss",
+        "../sass/components/_buttons.scss",
+        "../sass/components/_checkbox.scss",
+        "../sass/components/_clients.scss",
+        "../sass/components/_header-contacts.scss",
+        "../sass/components/_features.scss",
+        "../sass/components/_form-modal.scss",
+        "../sass/components/_galery-card.scss",
+        "../sass/components/_galery.scss",
+        "../sass/components/_hero.scss",
+        "../sass/components/_join.scss",
+        "../sass/components/_page-footer.scss",
+        "../sass/components/_page-header.scss",
+        "../sass/components/_portfolio.scss",
+        "../sass/components/_site-nav.scss",
+        "../sass/components/_social-network.scss",
+        "../sass/components/_socials.scss",
+        "../sass/components/_subscription.scss",
+        "../sass/components/_team-card.scss",
+        "../sass/components/_team.scss"
     ],
     "names": [],
     "file": "main.min.css"
