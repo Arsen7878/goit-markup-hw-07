@@ -1,0 +1,19 @@
+.team {
+  @extend %section;
+  background-color: $singleColor;
+  text-align: center;
+}
+
+.team__container {
+  @extend %container;
+}
+
+.team__title {
+  @extend %titleTextList;
+  @include title();
+}
+
+.team__list {
+  @extend %titleTextList;
+  display: flex;
+}

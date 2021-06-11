@@ -11,6 +11,12 @@
 }
 
 .page-header__container {
+  @extend %container;
+  display: flex;
+  align-items: center;
+}
+
+.page-header__nav {
   display: flex;
   align-items: center;
 }

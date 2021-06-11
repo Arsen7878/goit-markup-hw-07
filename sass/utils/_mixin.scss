@@ -1,0 +1,28 @@
+@mixin animationColor() {
+  transition: color 250ms $timingDurationFunction;
+}
+
+@mixin animationBG() {
+  transition: background-color 250ms $timingDurationFunction;
+}
+
+@mixin animationBC() {
+  transition: border-color 250ms $timingDurationFunction;
+}
+
+@mixin animationColor-BG() {
+  transition: color 250ms $timingDurationFunction, background-color 250ms $timingDurationFunction;
+}
+
+@mixin animationColor-BC() {
+  transition: color 250ms $timingDurationFunction, border-color 250ms $timingDurationFunction;
+}
+
+@mixin title() {
+  margin-bottom: 50px;
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+}

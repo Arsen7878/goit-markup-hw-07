@@ -16,11 +16,24 @@ $accentColor: #2196f3;
 // Единичный цвет
 $singleColor: rgba(255, 255, 255, 0.6);
 
+// Единичный фон у соц ссылок в футере
+$singleLinkFooter: rgba(255, 255, 255, 0.1);
+
 // Единичный фон
 $singleBackground-color: #f5f4fa;
 
+// Цвет соцю ссылок
+$socialsLinks: #afb1b8;
+
+// Цвет соц ссылок в футере
+
+$addressLink: rgba(255, 255, 255, 0.6);
+
 // Фон бэкдропа
 $backdropBackground-color: rgba(0, 0, 0, 0.2);
+
+// Цвет фона для карточек секции "Вид дейтельности"
+$activityBg: rgba(47, 48, 58, 0.8);
 
 // Функция распределения времени при анимации
 $timingDurationFunction: cubic-bezier(0.4, 0, 0.2, 1);

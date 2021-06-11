@@ -1,4 +1,8 @@
 @import '../sass/utils/variables';
+@import './utils/placeholders';
+@import './utils/mixin';
+@import './components/address';
+@import './components/body';
 @import './components/logo';
 @import './components/activity';
 @import './components/backdrop';
