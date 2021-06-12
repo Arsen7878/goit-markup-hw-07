@@ -1,6 +1,10 @@
 .galery-card {
   width: 370px;
   margin: 15px;
+
+  &:hover {
+    box-shadow: $boxShadowHoverGaleryCard;
+  }
 }
 
 .galery-card__link {
@@ -14,6 +18,9 @@
 
 .galery-card__meta {
   padding: 20px 24px;
+  border-left: 1px solid $borderColorCardPortfolio;
+  border-right: 1px solid $borderColorCardPortfolio;
+  border-bottom: 1px solid $borderColorCardPortfolio;
 }
 
 .galery-card__title {

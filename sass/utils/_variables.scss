@@ -54,6 +54,9 @@ $boxShadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
 $boxShadowPortfolioButton: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
   0px 2px 2px rgba(0, 0, 0, 0.12);
 
+$boxShadowHoverGaleryCard: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+  1px 4px 6px rgba(0, 0, 0, 0.16);
+
 // Цвет бордера для блока Подписки
 $subscriptionBorderColor: rgba(255, 255, 255, 0.3);
 
@@ -75,4 +78,8 @@ $borderButtonCloseColor: rgba(0, 0, 0, 0.1);
 // Цвет бордера хедера
 $borderColorFooter: #ececec;
 
+// Цвет оверлея при фокусе
 $overlayFocus: rgba(33, 150, 243, 0.9);
+
+// Цвет бордера карточек для портфолио
+$borderColorCardPortfolio: #eeeeee; ;
