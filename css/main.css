@@ -1028,8 +1028,8 @@
 }
 
 .team {
-  background-color: rgba(255, 255, 255, 0.6);
   text-align: center;
+  background-color: #f5f4fa;
 }
 
 .team__title {

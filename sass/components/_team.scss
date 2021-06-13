@@ -1,7 +1,8 @@
 .team {
   @extend %section;
-  background-color: $singleColor;
   text-align: center;
+
+  background-color: $singleBackground-color;
 }
 
 .team__container {
